@@ -28,7 +28,7 @@ Here's a step-by-step guide to create a simple HTML page with the elements you m
 
 7.Create unordered and ordered lists: For an unordered list (bulleted list), use the <ul> element and <li> elements for each list item. For an ordered list (numbered list), use the <ol> element:
 
-8.Insert a table: To create a simple table, use the <table>, <tr> (table row), <th> (table header), and <td> (table data) elements:
+8.Insert a table: To create a simple table, use the <table>, <tr> (table row), <th> (table header), and <td> (table data).
 
 9.Save your file: Once you've added all the elements, save your HTML file.
 
